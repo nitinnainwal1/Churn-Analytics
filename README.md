@@ -78,42 +78,6 @@ churn-analytics/
 ├── requirements.txt
 └── README.md
 ```
-
-## ▶️ Run Locally
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd churn-analytics
-```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's actual URL.
-
-### 2. Install dependencies
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### 3. Start the application
-
-```bash
-python -m streamlit run app.py
-```
-
-The application will open in your browser.
-
-## 🌐 Deployment
-
-The application is deployed using Streamlit Community Cloud.
-
-**Live application:** https://churn-analytics-dashboard1.streamlit.app/
-
-## ⚠️ Disclaimer
-
-This project is intended for educational and portfolio purposes. Predictions are based on the supplied dataset and trained model and should not be treated as definitive business decisions.
-
 ## 👨‍💻 Project Focus
 
 This project demonstrates practical skills in data analysis, feature preprocessing, handling imbalanced data, machine learning, model serialization, and web application deployment.
